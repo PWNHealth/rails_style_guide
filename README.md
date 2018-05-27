@@ -7,13 +7,13 @@ I like to open a votation for we decide with one we can use as base.
 2) https://github.com/airbnb/ruby
 3) http://shopify.github.io/ruby-style-guide/
 
-Alan
-Augusto
-Breno
-Davi
-Douglas
-Elias
-Georgeo -> 2, 1, 3
-Jorgelina
-Lucas
-Patricia
+- Alan
+- Augusto
+- Breno
+- Davi
+- Douglas
+- Elias
+- Georgeo -> 2, 1, 3
+- Jorgelina
+- Lucas
+- Patricia
