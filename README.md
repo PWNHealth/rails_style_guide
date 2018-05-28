@@ -14,6 +14,6 @@ I like to open a votation for we decide with one we can use as base.
 - Douglas -> 1, 2, 3
 - Elias
 - Georgeo -> 2, 1, 3
-- Jorgelina
+- Jorgelina -> 2, 1, 3
 - Lucas -> 2, 3, 1
 - Patricia -> 2, 1, 3
