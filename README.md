@@ -11,7 +11,7 @@ I like to open a votation for we decide with one we can use as base.
 - Augusto -> 2, 1
 - Breno
 - Davi
-- Douglas
+- Douglas -> 1, 2, 3
 - Elias
 - Georgeo -> 2, 1, 3
 - Jorgelina
