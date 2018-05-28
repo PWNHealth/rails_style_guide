@@ -8,7 +8,7 @@ I like to open a votation for we decide with one we can use as base.
 3) http://shopify.github.io/ruby-style-guide/
 
 - Alan
-- Augusto
+- Augusto -> 2, 1
 - Breno
 - Davi
 - Douglas
