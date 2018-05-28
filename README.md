@@ -15,5 +15,5 @@ I like to open a votation for we decide with one we can use as base.
 - Elias
 - Georgeo -> 2, 1, 3
 - Jorgelina
-- Lucas
+- Lucas -> 2, 3, 1
 - Patricia
