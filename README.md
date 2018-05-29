@@ -10,7 +10,7 @@ I like to open a votation for we decide with one we can use as base.
 - Alan
 - Augusto -> 2, 1
 - Breno
-- Davi
+- Davi -> 2, 3, 1
 - Douglas -> 1, 2, 3
 - Elias
 - Georgeo -> 2, 1, 3
