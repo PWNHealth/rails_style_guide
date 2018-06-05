@@ -9,7 +9,7 @@ I like to open a votation for we decide with one we can use as base.
 
 - Alan
 - Augusto -> 2, 1
-- Breno
+- Breno -> 2, 3, 1
 - Davi -> 2, 3, 1
 - Douglas -> 1, 2, 3
 - Elias
