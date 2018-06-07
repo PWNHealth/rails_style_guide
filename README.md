@@ -7,7 +7,7 @@ I like to open a votation for we decide with one we can use as base.
 2) https://github.com/airbnb/ruby
 3) http://shopify.github.io/ruby-style-guide/
 
-- Alan
+- Alan -> 2, 3, 1
 - Augusto -> 2, 1
 - Breno -> 2, 3, 1
 - Davi -> 2, 3, 1
