@@ -12,7 +12,7 @@ I like to open a votation for we decide with one we can use as base.
 - Breno -> 2, 3, 1
 - Davi -> 2, 3, 1
 - Douglas -> 1, 2, 3
-- Elias
+- Elias -> 2, 1, 3
 - Georgeo -> 2, 1, 3
 - Jorgelina -> 2, 1, 3
 - Lucas -> 2, 3, 1
